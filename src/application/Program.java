@@ -24,7 +24,7 @@ public class Program {
 		System.out.println("Enter worker data: ");
 		System.out.print("Name: ");
 		String workerName = sc.nextLine();
-		System.out.print("Level: ");
+		System.out.print("Enter Level JUNIOR, MID_LEVEL or SENIOR: ");
 		String workerLevel = sc.nextLine();
 		System.out.print("Base Salary: ");
 		double baseSalary = sc.nextDouble();
